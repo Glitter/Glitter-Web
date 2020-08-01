@@ -1,0 +1,23 @@
+.privacyPolicy h2 {
+  @apply mt-6 font-bold text-xl;
+}
+
+.privacyPolicy h3 {
+  @apply mt-5 font-semibold text-lg;
+}
+
+.privacyPolicy p {
+  @apply mt-4;
+}
+
+.privacyPolicy a {
+  @apply underline text-indigo-400;
+}
+
+.privacyPolicy ul {
+  @apply list-outside list-disc mt-4 pl-4;
+}
+
+.privacyPolicy li {
+  @apply mt-2;
+}

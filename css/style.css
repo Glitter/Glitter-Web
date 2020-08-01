@@ -1,0 +1,20 @@
+/* purgecss start ignore */
+@tailwind base;
+@tailwind components;
+/* purgecss end ignore */
+
+@tailwind utilities;
+@tailwind screens;
+
+body {
+  @apply bg-primary-100;
+  @apply antialiased;
+  @apply text-secondary-800;
+}
+
+/* Full height layout */
+#__next {
+  display: flex;
+  flex-flow: column nowrap;
+  min-height: 100vh;
+}

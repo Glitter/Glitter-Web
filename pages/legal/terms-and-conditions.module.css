@@ -1,0 +1,23 @@
+.terms h2 {
+  @apply mt-6 font-bold text-xl;
+}
+
+.terms h3 {
+  @apply mt-5 font-semibold text-lg;
+}
+
+.terms p {
+  @apply mt-4;
+}
+
+.terms a {
+  @apply underline text-indigo-400;
+}
+
+.terms ul {
+  @apply list-outside list-disc mt-4 pl-4;
+}
+
+.terms li {
+  @apply mt-2;
+}

@@ -1,0 +1,4 @@
+.buttonsGrid {
+  grid-template-columns: auto auto;
+  justify-content: start;
+}
