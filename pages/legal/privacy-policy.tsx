@@ -601,17 +601,7 @@ const PrivacyPolicyPage = () => {
             <h2>16. HOW CAN YOU CONTACT US ABOUT THIS POLICY?</h2>
             <p>
               If you have questions or comments about this policy, you may email
-              us at hello@tryglitter.com or by post to:
-            </p>
-            <p>
-              Atlas, craft for web development, owner Borna Šepić, Vrbovsko,
-              Senjsko 18
-              <br />
-              Senjsko 18
-              <br />
-              Vrbovsko 51326
-              <br />
-              Croatia
+              us at hello@tryglitter.com
             </p>
 
             <h2>
